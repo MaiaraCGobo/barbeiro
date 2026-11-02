@@ -1,0 +1,6 @@
+{
+  "name": "BarberPRO - Sistema de Agendamento e Gestão",
+  "description": "Sistema completo para barbearias com agendamento inteligente, agenda visual, gestão financeira para barbeiros e notificações push.",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
